@@ -20,5 +20,3 @@
  
   ![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg) 
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlvarinoLemes&repo=AlvarinoLemes&theme=react)](https://github.com/AlvarinoLemes/AlvarinoLemes)
