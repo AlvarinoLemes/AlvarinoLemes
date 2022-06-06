@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/alvarino-lemes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <br>
 <div align="center">
-### Um pouco sobre mim...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
+Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
     Analista de suporte no Grupo UOL me preparando para ingressar no ramo de desenvolvimento.
  </div>
   
