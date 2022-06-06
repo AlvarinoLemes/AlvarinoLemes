@@ -24,5 +24,6 @@
  ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
     A passionate developer, currently working as Software QA Engineer at Zé Delivery
   </div>
+  <br><br>
   ![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg) 
 </div>
