@@ -21,10 +21,10 @@
   <a href="https://www.instagram.com/alvarinolemes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alvarino-lemes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <br>
-    <div>
- ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
+<div align="center">
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
     A passionate developer, currently working as Software QA Engineer at Zé Delivery
-  </div>
+ </div>
   
   ![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg) 
 </div>
