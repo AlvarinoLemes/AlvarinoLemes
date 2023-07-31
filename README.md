@@ -24,7 +24,6 @@
   <div align="center">
   <h2>Um pouco sobre mim...<h2>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><br> 
-  Analista de suporte no Grupo UOL me preparando para ingressar no ramo de desenvolvimento.
   </div>
   
   ![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg) 
